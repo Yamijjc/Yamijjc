@@ -8,7 +8,7 @@ I am an upcoming 4th-year Information Technology student at Quezon City Universi
 ### 💻 Tech Stack & Core Skills
 
 * **Programming & Database:** HTML/CSS, JavaScript, C#, Java, MySQL
-**Tools & Platforms:** Visual Studio, NetBeans IDE, MySQL, Microsoft Office, Windows OS
+* **Tools & Platforms:** Visual Studio, NetBeans IDE, MySQL, Microsoft Office, Windows OS
 * **Focus Areas:** IT Technical Support, Hardware/Software Troubleshooting, Software Testing
 
 ---
