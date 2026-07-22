@@ -1,6 +1,6 @@
 # Hi there! I'm Jessie James Cantones 👋
 
-### 🚀 Aspiring IT Assistant & Software Tester | BSIT Student
+### 🚀 Future IT Professional | BSIT Student
 I am an upcoming 4th-year Information Technology student at Quezon City University. I have practical experience in basic technical support, system troubleshooting, software installation, and UI/software testing through academic projects and work immersion.
 
 ---
