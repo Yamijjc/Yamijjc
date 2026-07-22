@@ -17,7 +17,7 @@ I am an upcoming 4th-year Information Technology student at Quezon City Universi
 
 #### 🚌 BusWatch: Mobile School Service Tracking App *(2026)*
 > **Role:** UI Designer & Software Tester
-* Designed mobile interfaces and navigation flows in Android Studio for parent, driver, and admin access roles.
+* Designed user interfaces and navigation flows using Figma for user roles parent, driver, and administrator access.
 * Conducted manual software testing on real-time GPS tracking, map navigation, and Firebase database synchronization.
 * Verified input validations, user approval controls, and system error alerts to log application bugs.
 
